@@ -1,0 +1,3 @@
+import pycosat
+
+clause = []
